@@ -30,4 +30,4 @@ Tier 2.5: +3 to Best, +2 to High stats, +1 to Low, +0 to Worst
 
 Laguz gained roughly 6 points worth of stats, where 2 HP counts as 1 point.
 
-[Example.png](https://raw.githubusercontent.com/Iconoclast1750/Iconoclast-F10-Modding/refs/heads/main/Example.png)
+![Example.png](https://raw.githubusercontent.com/Iconoclast1750/Iconoclast-F10-Modding/refs/heads/main/Example.png)
