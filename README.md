@@ -1,7 +1,7 @@
 # Iconoclast-F10-Modding
 These folders contain edited FE10Data.cms files which buff enemy generics by a few stats, as well as increasing the caps on the enemy tier 2.5 classes. To use, with a PAL Radiant Dawn ISO, extract the full disc using Dolphin, replace FE10Data.cms in DATA/files and then do whatever randomizing you were going to do and rebuild the ISO with WiiBaFu.
 
-These are intended to be compatible with LordMewtwo's FE10 Randomizer, and were made because it does not have an option to increase enemy generic stats and also because I want stronger enemies but hate what Hard mode does to EXP gain (Dawn Brigade liker here).
+These are intended to be compatible with LordMewtwo's FE10 Randomizer, and were made because it does not have an option to increase enemy generic base stats and also because I want stronger enemies but hate what Hard mode does to EXP gain (Dawn Brigade liker here).
 
 Fixed enemy boosts increases enemy stats as follows:
 
